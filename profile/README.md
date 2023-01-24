@@ -1,4 +1,4 @@
-![shiny-corporate-logo](https://github.com/RFP2212-Toy-Story/.github/images/toy-story-logo.png?raw=true)
+![shiny-corporate-logo](https://github.com/RFP2212-Toy-Story/.github/blob/main/images/toy-story-logo.png?raw=true)
 
 <!--
 
